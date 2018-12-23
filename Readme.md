@@ -1,1 +1,1 @@
-Problems worked on kaggle platformed.
+Problems worked on kaggle platforme.
